@@ -1,4 +1,4 @@
-Assignments for Udacity Deep Learning class with TensorFlow
+This repo contains my solutions for the assignments for Udacity Deep Learning class with TensorFlow
 ===========================================================
 
 Course information can be found at https://www.udacity.com/course/deep-learning--ud730
